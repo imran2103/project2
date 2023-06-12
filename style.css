@@ -22,7 +22,6 @@ header::before{
     position: absolute;
     left: 34px;
     display: inline-block;
-    border: 2px solid green;
 }
 .left img{
    
@@ -39,21 +38,21 @@ header::before{
     display: block;
     width: 45%;
     margin: 12px auto;
-    border: 2px solid red;
+    
 }
 .right{
     position: absolute;
     right: 34px;
     top: 18px;
     display: inline-block;
-    border: 2px solid yellow;
+  
 } 
 .btn{
     font-family: 'Raleway', sans-serif;
     margin: 0px 9px;
     color: black;
     padding: 4px 14px;
-    border : 2px solid grey;
+
     border-radius: 10px;
     cursor: pointer;
 }
@@ -79,7 +78,7 @@ header::before{
     
 }
 .container{
-    border: 2px solid green;
+   
     margin: 100px auto;
     padding: 150px;
     width: 25%;
@@ -89,7 +88,7 @@ header::before{
 
 .king{
     width: 100%;
-    border: 2px solid red;
+    
 
 }
 .container h1{
@@ -105,7 +104,7 @@ header::before{
     display: block;
     width: 300px;
     padding: 1px;
-    border : 2px solid black;
+
     margin: 0px auto;
     
     font-size: 25px;
@@ -116,7 +115,7 @@ header::before{
     margin: 20px 135px;
     color: black;
     padding: 2px 14px;
-    border : 2px solid grey;
+  
     border-radius: 10px;
     cursor: pointer;
     font-size: 24px;
